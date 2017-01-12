@@ -15,6 +15,13 @@
 		<p id="description"><b>Name: </b>dadlfkjadlfj</p>
 		<br>
 		<b>Age: </b>34
+		<br><br>
+		<b>Profession: </b> is a walker on wall street
+		<br><br>
+		<b>Technology: </b> uses a Macbook Pro
+		<br><br>
+		<b>Attitudes and Behaviors: </b> is a dick
+		<br><br>
 		<!-- This is a comment -->
 
 		<h2>This is a header two.</h2>
