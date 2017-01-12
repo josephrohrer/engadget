@@ -10,20 +10,20 @@
 	</head>
 	<main>
 		<header>
-			<h1 class="foo-heading">This is a Demo page.</h1>
+			<h1>Persona</h1>
 		</header>
-		<p id="description"><b>Name: </b>dadlfkjadlfj</p>
-		<b>Age: </b>34
+		<p id="description"><strong>Name: </strong>dadlfkjadlfj</p>
+		<strong>Age: </strong>34
 		<br><br>
-		<b>Profession: </b> is a walker on wall street
+		<strong>Profession: </strong> is a walker on wall street
 		<br><br>
-		<b>Technology: </b> uses a Macbook Pro
+		<strong>Technology: </strong> uses a Macbook Pro
 		<br><br>
-		<b>Attitudes and Behaviors: </b> is a dick
+		<strong>Attitudes and Behaviors: </strong> is a dick
 		<br><br>
-		<b>Frustrations and Needs:</b> is frustrated
+		<strong>Frustrations and Needs:</strong> is frustrated
 		<br><br>
-		<b>Goals: </b> wants to rule the world
+		<strong>Goals: </strong> wants to rule the world
 		<!-- This is a comment -->
 	</main>
 
