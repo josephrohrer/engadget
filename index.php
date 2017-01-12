@@ -8,22 +8,24 @@
 
 		<title>Engadget Persona</title>
 	</head>
+
 	<main>
 		<header>
 			<h1>Persona</h1>
 		</header>
-		<p id="description"><strong>Name: </strong>dadlfkjadlfj</p>
-		<strong>Age: </strong>34
-		<br><br>
-		<strong>Profession: </strong> is a walker on wall street
-		<br><br>
-		<strong>Technology: </strong> uses a Macbook Pro
-		<br><br>
-		<strong>Attitudes and Behaviors: </strong> is a dick
-		<br><br>
-		<strong>Frustrations and Needs:</strong> is frustrated
-		<br><br>
-		<strong>Goals: </strong> wants to rule the world
+
+		<p><strong>Name: </strong>dadlfkjadlfj
+		<strong>Age: </strong>34</p>
+
+		<p><strong>Profession: </strong> is a walker on wall street</p>
+
+		<p><strong>Technology: </strong> uses a Macbook Pro</p>
+
+		<p><strong>Attitudes and Behaviors: </strong> is a dick</p>
+
+		<p><strong>Frustrations and Needs:</strong> is frustrated</p>
+
+		<p><strong>Goals: </strong> wants to rule the world</p>
 		<!-- This is a comment -->
 	</main>
 
