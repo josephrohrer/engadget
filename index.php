@@ -48,9 +48,22 @@
 			<ul class="Conceptual-Model">
 				<strong>PROFILE</strong>
 				<p>profileId (Primary Key)<br>
-					profileEmail</p>
+					profileEmail<br>
+					profileHash<br>
+					profileSalt<br>
+				</p>
+
+				<strong>ARTICLE</strong>
+				<p>articleID<br>
+					articleAuthor<br>
+					articleContent<br>
+					articleDate<br>
+
+				</p>
+
 				<strong>COMMENTS</strong>
-				<p>commentID<br>
+				<p>commentArticleID<br>
+					commentID<br>
 					commentUser<br>
 					commentDate<br>
 					commentLikes<br>
