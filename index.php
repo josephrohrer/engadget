@@ -54,20 +54,19 @@
 				</p>
 
 				<strong>ARTICLE</strong>
-				<p>articleID<br>
+				<p>articleId<br>
 					articleAuthor<br>
 					articleContent<br>
 					articleDate<br>
-
 				</p>
 
 				<strong>COMMENTS</strong>
-				<p>commentArticleID<br>
-					commentID<br>
-					commentUser<br>
-					commentDate<br>
-					commentLikes<br>
-					commentReply</p>
+				<p>commentId<br>
+					commentArticleId<br>
+					commentProfileId<br>
+					commentContent<br>
+					commentParentCommentId<br>
+					commentDate</p>
 
 			</ul>
 		<!-- This is a comment -->
