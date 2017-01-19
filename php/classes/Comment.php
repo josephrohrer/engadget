@@ -34,7 +34,11 @@ class Comment implements \JsonSerializable {
 		 * @var string $commentContent
 		 **/
 		private $commentContent;
-
+	/**
+	 *
+	 * @var int $commentParentCommentId
+	 *
+	 **/
 		private $commentParentCommentId;
 
 

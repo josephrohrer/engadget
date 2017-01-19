@@ -1,16 +1,25 @@
 
-DROP TABLE IF EXISTS profile;
 DROP TABLE IF EXISTS comment;
 DROP TABLE IF EXISTS article;
+DROP TABLE IF EXISTS profile;
 
 
 
 CREATE TABLE profile (
-	profileId
+	profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,
 	profileEmail VARCHAR(128) NOT NULL,
-	profileHash
-	profileSalt
+	profileHash CHAR(128) NOT NULL,
+	profileSalt char(64) NOT NULL,
+	UNIQUE(profileEmail),
+	PRIMARY KEY(profileId)
 
+);
+
+
+CREATE TABLE article (
+	articleId,
+	articleContent MEDIUMTEXT,
+	articleDate
 
 );
 
@@ -24,14 +33,6 @@ CREATE TABLE comment (
 	commentContent
 	commentParentId
 
-
-);
-
-
-CREATE TABLE article (
-	articleId
-	articleContent
-	articleDate
 
 );
 
